@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Rotate</string>
+    <string name="portrait_str">PORTRAIT</string>
+    <string name="portrait_r_str">PORTRAIT R</string>
+    <string name="landscape">LANDSCAPE</string>
+    <string name="landscape_r">LANDSCAPE R</string>
+</resources>
